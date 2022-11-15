@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Hind Siliguri Medium';
+    font-style: Medium;
+    src: local('Hind Siliguri Medium'),
+        url(fonts/HindSiliguri-Medium.woff2) format('woff2'),
+        url(fonts/HindSiliguri-Medium.woff) format('woff'),
+        url(fonts/HindSiliguri-Medium.ttf) format('ttf'),
+        url(fonts/HindSiliguri-Medium.eot) format('eot');
+}
+
+@font-face {
+    font-family: 'Hind Siliguri SemiBold';
+    font-style: SemiBold;
+    src: local('Hind Siliguri SemiBold'),
+        url(fonts/HindSiliguri-SemiBold.woff2) format('woff2'),
+        url(fonts/HindSiliguri-SemiBold.woff) format('woff'),
+        url(fonts/HindSiliguri-SemiBold.ttf) format('ttf'),
+        url(fonts/HindSiliguri-SemiBold.eot) format('eot');
+}
+
+.main-block {
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.block-one {
+    width: 555px;
+    height: 296px;
+    box-sizing: border-box;
+    background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.text-wrap {
+    margin-left: 35px;
+    margin-top: 75px;
+}
+
+.text-one {
+    width: 241px;
+    height: 27px;
+    font-family: 'Hind Siliguri Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    color: #F4F9FC;
+    opacity: 0.6;
+    text-transform: uppercase;
+}
+
+.text-two {
+    font-family: 'Hind Siliguri SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 40px;
+    width: 249px;
+    height: 81px;
+    margin-top: 5px;
+
+
+    color: #F4F9FC;
+}
+
+.text-three {
+    width: 76px;
+    height: 27px;
+    font-family: 'Hind Siliguri Medium';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 27px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    margin-top: 7px;
+
+    color: #F4F9FC;
+}
+
+.block-two {
+    width: 555px;
+    height: 296px;
+    box-sizing: border-box;
+    background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-left: 585px;
+    margin-top: -296px;
+}
+
+.text-two-new {
+    font-family: 'Hind Siliguri SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 40px;
+    width: 258px;
+    height: 81px;
+    margin-top: 5px;
+
+
+    color: #F4F9FC;
+}
+
+.image-one {
+    margin-left: 250px;
+    margin-top: -240px;
+}
+
+.image-two {
+    margin-left: 260px;
+    margin-top: -240px;
+}
